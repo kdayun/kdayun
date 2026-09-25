@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b591c9&height=250&section=header&text=Hello,%20I%27m%20Dayun!&fontSize=45&fontColor=FFFFFF&animation=fadeIn" />
 
-# Hello, I'm DAYUN 👋
-
 ## 👩‍💻 About Me
 - 📫 Email: danuy0328@gmail.com
 
